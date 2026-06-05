@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="EarthCare Banner">
+  <img src="bannerplant.png" alt="EarthCare Banner">
 </p>
 # EarthCare
 
