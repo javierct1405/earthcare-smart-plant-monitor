@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="EarthCare Banner">
+</p>
 # EarthCare
 
 Sistema inteligente de monitoreo de plantas desarrollado en Kotlin para Android.
@@ -84,7 +87,7 @@ Visualización y alertas
 
 ### PlantGPT
 
-![PlantGPT](screenshots/plantgpt.png)
+![PlantGPT](screenshots/plantgpt.jpeg)
 
 ### Gráfica de luz
 
