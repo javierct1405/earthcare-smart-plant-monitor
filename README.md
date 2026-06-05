@@ -1,7 +1,8 @@
 <p align="center">
   <img src="bannerplant.png" alt="EarthCare Banner">
 </p>
-# EarthCare
+
+## EarthCare
 
 Sistema inteligente de monitoreo de plantas desarrollado en Kotlin para Android.
 
