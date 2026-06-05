@@ -76,7 +76,7 @@ Visualización y alertas
 
 ### Dashboard principal
 
-![Dashboard](screenshots/dashboard-principal.png)
+![Dashboard](screenshots/dashboard-principalplant.png)
 
 ### Alertas inteligentes
 
@@ -121,7 +121,7 @@ Visualización y alertas
 
 ### Prototipo físico
 
-![Hardware](hardware/prototipo-fisico.jpg)
+![Hardware](hardware/prototipo-fisico.jpeg)
 
 ---
 
